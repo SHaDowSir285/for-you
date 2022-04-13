@@ -1,6 +1,7 @@
 const Discord = require('discord.js')
 require("dotenv").config();
 const { Client, Collection, Intents } = require("discord.js");
+const pablo = require("./alive/eg.js")
 const fs = require("fs");
 const client = new Client({
   messageCacheLifetime: 60,
