@@ -1,0 +1,19 @@
+{
+  "name": "djshandler",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "KabirSingh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "pro-tax": "^1.0.9",
+    "probot-tax": "^1.0.3",
+    "probot-tax-calculator": "^3.0.0"
+  }
+}
